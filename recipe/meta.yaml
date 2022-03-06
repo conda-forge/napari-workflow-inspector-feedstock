@@ -25,7 +25,7 @@ requirements:
     - napari-workflows
     - numpy
     - python >=3.7
-    - python-igraph
+    - networkx
 
 test:
   imports:
